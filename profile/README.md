@@ -1,6 +1,6 @@
 # Supremacy: Empowering Innovation in Software Solutions
 
-![Supremacy Logo](supremacy.png)
+![Supremacy Logo](https://raw.githubusercontent.com/super-supremacy/.github/main/profile/supremacy.png)
 <!-- ![Supremacy Background Image](supremacy_bg.jpeg) -->
 
 Supremacy is a dynamic and forward-thinking software company committed to pushing the boundaries of innovation. With our expertise in web development, automation, and AI technologies, we create exceptional solutions that revolutionize industries and empower businesses to thrive in the digital age.
